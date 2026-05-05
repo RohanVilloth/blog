@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: HEXcube's Blog
+name: Rohan Villoth's Blog
 
 # Short bio or description (displayed in the header)
 description: Web Developer/Designer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://hexcube.github.io/blog/assets/images/branding/hexcube-logo.svg
+avatar: https://RohanVilloth.github.io/blog/assets/images/branding/rohan-villoth-logo.svg
 
 #
 # Flags below are optional
@@ -21,16 +21,16 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: HEXcube
-  gitlab: HEXcube
+  github: RohanVilloth
+  gitlab: RohanVilloth
   launchpad: hexcube
-  medium: HEXcube
-  deviantart: hexcube
+  medium: RohanVilloth
+  deviantart: RohanVilloth
   instagram:
   linkedin: RohanVilloth
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: H3Xcube
+  twitter: RohanVilloth
   stackoverflow: 8386844
   stackexchange:
   steam: HEXcube
@@ -47,7 +47,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://hexcube.github.io
+url: https://RohanVilloth.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
