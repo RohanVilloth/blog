@@ -20,8 +20,12 @@
   }
 
   /* Colors */
-  &.twitter {
-    background-color: #38A1F3;
+  &.x {
+    background-color: #000000;
+  }
+
+  &.instagram {
+    background-color: #E1306C;
   }
 
   &.stackoverflow {
@@ -63,6 +67,14 @@
 
   &.facebook {
     background-color: #3B5998;
+  }
+
+  &.youtube {
+    background-color: #FF0000;
+  }
+
+  &.rss {
+    background-color: #F26522;
   }
 
   &:hover, &:active {

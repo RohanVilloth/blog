@@ -30,7 +30,7 @@
     -->
     <nav id="custom-navbar" class="navbar scroll-top">
       <span class="navbar-toggle" id="js-navbar-toggle">
-        <i class="fas fa-bars"></i>
+        <i class="fa-solid fa-bars"></i>
       </span>
       <a href="{{ site.baseurl }}/" class="logo">
         <img class="logo-image" src="{{ site.avatar }}" />
@@ -45,7 +45,7 @@
         </li>
         <li>
           <a class="nav-links" href="https://github.com/RohanVilloth/blog" target="_blank">
-            <i class="fab fa-github"></i>
+            <i class="fa-brands fa-github"></i>
             <span>View Source</span>
           </a>
         </li>
@@ -57,7 +57,6 @@
     </div>
 
     <div class="upper-footer">
-      {% include svg-icons.html %}
       {% include social-icons.html %}
     </div>
 
@@ -73,7 +72,9 @@
     {% include copyright-year-update.html %}
 
     <!-- Font Awesome -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js" integrity="sha512-YSdqvJoZr83hj76AIVdOcvLWYMWzy6sJyIMic2aQz5kh2bPTd9dzY3NtdeEAzPp/PhgZqr4aJObB3ym/vsItMg==" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/brands.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/solid.min.css" />
 
     <!-- Toggle Mobile Navbar Menu -->
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/toggle-mobile-navbar-menu.js" ></script>
